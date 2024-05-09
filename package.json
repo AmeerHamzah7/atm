@@ -1,5 +1,5 @@
 {
-  "name": "atm",
+  "name": "atm-machine-hamza",
   "version": "1.0.0",
   "description": "Simple Bank ATM for checking balance and withdraw money",
   "main": "index.js",
