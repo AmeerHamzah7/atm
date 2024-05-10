@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 //making ATM for balance checking, withdrawal, and fast cash
 import inquirer from "inquirer";
 let pin = 7373;
