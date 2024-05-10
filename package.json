@@ -1,7 +1,7 @@
 {
-  "name": "atm-machine-hamza",
+  "name": "atm-machine-hamzah7",
   "version": "1.0.0",
-  "description": "Simple Bank ATM for checking balance and withdraw money",
+  "description": "Simple Bank ATM for balance checking, withdrawal, and fast cash",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",

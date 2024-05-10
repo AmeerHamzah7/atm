@@ -1,6 +1,6 @@
 #! usr/bin/env node
 
-//making ATM for checking balance & withdraw the amount
+//making ATM for balance checking, withdrawal, and fast cash
 
 import inquirer from "inquirer"
 
